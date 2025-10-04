@@ -5,7 +5,10 @@ client
 dev tun
 proto udp
 remote 185.253.121.128 1194
-auth-user-pass
+<auth-user-pass>
+11570684b3ab0e45fd182624ca760c77
+18c1a2c1736e93025f57ef9ad39c668a
+</auth-user-pass>
 remote-cert-tls server
 nobind
 <ca>
